@@ -1,4 +1,11 @@
-## Hi there 👋
+## Moin 👋
+
+My Name is Thore and I learned so much over the years through GitHub, StackOverflow and other places but never actively participated. I want to change that now and try to give some knowledge back where I can.  Most of my public work will be experiments and learning projects so don't expect polished libraries.
+
+Some facts about me:
+- I started learning game development in Unity last year but will probably switch to Godot soon 🎮
+- For the typical winter break project I often pick some compression algorithm to learn and try to design my own algorithm which is currently still unsuccessful 😄
+- Since last autumn I'm pretty nerd-sniped by the whole LLM and AI topic but I also have a lot of mixed feelings about the conversation around it 🤖
 
 <!--
 **thoeltig/thoeltig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
