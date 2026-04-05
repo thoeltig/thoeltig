@@ -1,6 +1,6 @@
 ## Moin 👋
 
-My Name is Thore and I learned so much over the years through GitHub, StackOverflow and other places but never actively participated. I want to change that now and try to give some knowledge back where I can.  Most of my public work will be experiments and learning projects so don't expect polished libraries.
+My name is Thore and I learned so much over the years through GitHub, StackOverflow and other places but never actively participated. I want to change that now and try to give some knowledge back where I can. Most of my public work will be experiments and learning projects so don't expect polished libraries.
 
 Some facts about me:
 - I started learning game development in Unity last year but will probably switch to Godot soon 🎮
